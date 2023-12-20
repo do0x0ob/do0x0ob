@@ -10,11 +10,12 @@
 🌱 I’m currently learning ...
   🐍 Python
   🧊 Solidity
+  👾 Unity
 
 📫 How to reach me: do0x0ob@protonmail.com
 😄 Pronouns: She/Her
 ⚡ Addiction 💕
   🍺 Beer 
-  👾 Game
+  🎮 Game
   🐾 Sheltie
 ```
