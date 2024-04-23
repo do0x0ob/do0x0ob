@@ -4,13 +4,13 @@
   <h3>🔭 I’m currently working on ...</h3>
   <ul>
     <li>🪐 Exploring Web3 Dev</li>
-    <li>㊫ Preparing for a CS master's program</li>
+    <li>㊫ Study for CS master's program</li>
   </ul>
 
   <h3>🌱 I’m currently learning ...</h3>
   <ul>
     <li>🐍 Python</li>
-    <li>🧊 Solidity</li>
+    <li>🧊 Move on Sui</li>
     <li>👾 Unity</li>
   </ul>
 
