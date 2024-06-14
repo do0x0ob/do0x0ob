@@ -1,4 +1,3 @@
-<img src="https://github.com/do0x0ob/Sui-Devnet-faucet_coin-EYES/blob/main/faucet_eyes/token_img/eyes.png?raw=true" alt="EYES" width="60">
 <h2>Hi there 👋</h2>
   <img align='right' src="https://github.com/do0x0ob/do0x0ob/assets/153002627/460dd01c-7a0d-4fbf-bca9-749548d10737" alt="Profile Image">
   <h3>🔭 I’m currently working on ...</h3>
