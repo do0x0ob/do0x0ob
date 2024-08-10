@@ -2,7 +2,7 @@
   <img align='right' src="https://github.com/do0x0ob/do0x0ob/assets/153002627/460dd01c-7a0d-4fbf-bca9-749548d10737" alt="Profile Image">
   <h3>🔭 I’m currently working on ...</h3>
   <ul>
-    <li>💧 SuiOverflow Hackathon | Our Project: <a href="https://frensuipport.vercel.app/">FrenSuipport</a></li>
+    <li>💧 FrenSuipport: <a href="https://frensuipport.vercel.app/">FrenSuipport</a></li>
     <li>🪐 Exploring Web3 Dev</li>
     <li>㊫ Study for CS master's program</li>
   </ul>
