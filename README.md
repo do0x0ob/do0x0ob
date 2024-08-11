@@ -22,4 +22,3 @@
   </ul>
 
   <p>📫 How to reach me: <a href="mailto:do0x0ob@protonmail.com">do0x0ob@protonmail.com</a></p>
-  <p>😄 Pronouns: She/Her</p>
