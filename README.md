@@ -9,9 +9,9 @@
 
   <h3>🌱 I’m currently learning ...</h3>
   <ul>
-    <li>🐍 Python</li>
+    <li>⚙️ Rust</li>
     <li>🧊 Move on Sui</li>
-    <li>🆘 Next.js</li>
+    <li>㊙ Fully Homomorphic Encryption</li>
   </ul>
 
   <h3>⚡ Addiction 💕</h3>
