@@ -4,7 +4,7 @@
   <ul>
     <li>💧 FrenSuipport: <a href="https://frensuipport.vercel.app/">FrenSuipport</a></li>
     <li>🪐 Exploring Web3 Dev</li>
-    <li>㊫ Study for CS master's program</li>
+    <li>📚 Pursuing a Master’s in Info & Electrical Engineering</li>
   </ul>
 
   <h3>🌱 I’m currently learning ...</h3>
