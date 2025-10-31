@@ -3,7 +3,7 @@
 
 <h3>🔨 My Recent Work</h3>
 <ul>
-  <li>💧 <a href="https://archimeters.vercel.app/">Archimeters</a> (University Award @ 2025 Sui Overflow)</li>
+  <li>💧 <a href="[https://archimeters.vercel.app/](https://archimeters-do0x0obs-projects.vercel.app/)">Archimeters</a> (University Award @ 2025 Sui Overflow)</li>
   <li>💧 <a href="https://memento-os.vercel.app/">Memento OS</a> (2nd @ 2025 Sui AI Typhoon - Atoma Track)</li>
   <li>💧 <a href="https://frensuipport.vercel.app/">FrenSuipport</a> (University Award @ 2024 Sui Overflow)</li>
   <li>📚 Pursuing a Master’s in IEE</li>
