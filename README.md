@@ -3,7 +3,7 @@
 <img align="right" 
      src="https://github.com/do0x0ob/do0x0ob/assets/153002627/460dd01c-7a0d-4fbf-bca9-749548d10737" 
      alt="Profile Image" 
-     style="max-width: 38%; border-radius: 8px; margin-top: 18px; margin-left: 12px;">
+     style="max-width: 30%; border-radius: 8px; margin-top: 18px; margin-left: 12px;">
 
 <p style="font-size: 1.1rem; margin-top: 8px;">
   <em>I build small 3D creatures and convince them to live on-chain.</em>
