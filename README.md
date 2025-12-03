@@ -40,7 +40,7 @@
 
 <!-- Personality / Emoji Badges -->
 <p>
-  <img src="https://img.shields.io/badge/🧪-3D_creature_builder-f28cff?style=for-the-badge" style="height:24px;" alt="Creature Badge">
-  <img src="https://img.shields.io/badge/🍺-beer_mode-ffcc33?style=for-the-badge" style="height:24px;" alt="Beer Badge">
-  <img src="https://img.shields.io/badge/🐶-sheltie_friend-7db0ff?style=for-the-badge" style="height:24px;" alt="Sheltie Badge">
+  <img src="https://img.shields.io/badge/🧪-3D_creature_builder-f28cff?style=for-the-badge" style="height:22px;" alt="Creature Badge">
+  <img src="https://img.shields.io/badge/🍺-beer_mode-ffcc33?style=for-the-badge" style="height:22px;" alt="Beer Badge">
+  <img src="https://img.shields.io/badge/🐶-sheltie_friend-7db0ff?style=for-the-badge" style="height:22px;" alt="Sheltie Badge">
 </p>
