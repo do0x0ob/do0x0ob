@@ -20,7 +20,7 @@
 <h3>🔨 My Recent Work</h3>
 <ul>
   <li><a href="https://github.com/do0x0ob/taipeichat_TaipeiChatLab">TaipeiChat</a> — 3rd Place @ 2025 Sui Bootcamp Hackathon</li>
-  <li><a href="https://atrium-nu.vercel.app/">Atrium</a> — Award Pending @ 2025 Walrus Haulot Hackathon</li>
+  <li><a href="https://atrium-nu.vercel.app/">Atrium</a> </li>
   <li>
   <a href="https://pavilion-231.vercel.app/">Pavilion</a>
     <ul>
